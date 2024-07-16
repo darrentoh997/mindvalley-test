@@ -1,0 +1,72 @@
+[
+  {
+    "name": "item1",
+    "description": "A description for item1",
+    "price": 15.50,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 5
+  },
+  {
+    "name": "item2",
+    "description": "A description for item2",
+    "price": 23.75,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 12
+  },
+  {
+    "name": "item3",
+    "description": "A description for item3",
+    "price": 7.99,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 20
+  },
+  {
+    "name": "item4",
+    "description": "A description for item4",
+    "price": 19.95,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 7
+  },
+  {
+    "name": "item5",
+    "description": "A description for item5",
+    "price": 5.50,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 15
+  },
+  {
+    "name": "item6",
+    "description": "A description for item6",
+    "price": 12.30,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 9
+  },
+  {
+    "name": "item7",
+    "description": "A description for item7",
+    "price": 8.20,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 3
+  },
+  {
+    "name": "item8",
+    "description": "A description for item8",
+    "price": 17.40,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 6
+  },
+  {
+    "name": "item9",
+    "description": "A description for item9",
+    "price": 9.99,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 10
+  },
+  {
+    "name": "item10",
+    "description": "A description for item10",
+    "price": 11.50,
+    "image_url": "https://cdn.pixabay.com/photo/2016/12/06/09/31/blank-1886008_1280.png",
+    "quantity": 8
+  }
+]
